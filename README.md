@@ -24,8 +24,14 @@ Prioritization is done using priority labels on user stories and tasks, for exam
 
 ## Sprints
 
-Sprints are managed using boards, with a single board representing a single sprint, for example: [Sprint 0 board](https://github.com/EliiseS/board-demo/projects/1)
+Sprints are managed using projects, with a single project representing a single sprint, for example: [Sprint 0 board](https://github.com/EliiseS/board-demo/projects/1). Once a sprint is finished, the project can be closed
 
 ## Backlog
 
-Backlog is managed using a single board called `backlog`, found [here](https://github.com/EliiseS/board-demo/projects/2)
+Backlog is managed using a single board called `backlog`, found [here](https://github.com/EliiseS/board-demo/projects/2). The project contains a column for each sprint
+
+## Parking lot
+
+In addition, for managing the daily stand up parking lot there's a [`Parking lot` project](https://github.com/EliiseS/board-demo/projects/3) avaliable to add issues up for discussion
+
+

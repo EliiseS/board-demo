@@ -1,7 +1,6 @@
 # Github boards with Scrum
 
-This repository is to demonstrate an example of how to use Github boards with Scrum
-
+This repository is to demonstrate an example of how to use Github project boards with Scrum
 
 ## Issue types
 
@@ -24,11 +23,11 @@ Prioritization is done using priority labels on user stories and tasks, for exam
 
 ## Sprints
 
-Sprints are managed using projects, with a single project representing a single sprint, for example: [Sprint 0 board](https://github.com/EliiseS/board-demo/projects/1). Once a sprint is finished, the project can be closed
+Sprints are managed using projects, with a single project representing a single sprint, for example: [Sprint 0 project](https://github.com/EliiseS/board-demo/projects/1). Once a sprint is finished, the project can be closed
 
 ## Backlog
 
-Backlog is managed using a single board called `backlog`, found [here](https://github.com/EliiseS/board-demo/projects/2). The project contains a column for each sprint
+Backlog is managed using a single project called `backlog`, found [here](https://github.com/EliiseS/board-demo/projects/2). The project contains a column for each sprint
 
 ## Parking lot
 

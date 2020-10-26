@@ -13,6 +13,8 @@ This repository is to demonstrate an example of how to use Github project boards
   - the `task` label
   - a link to a milestone
   
+> **Additonal consideration**: Create a label per user story that would be added to the user story and each of it's tasks. This would allow for more tight coupling of user stories to their tasks and better filtering. However, this would increase the maintence overhead per story and the label itself wouldn't have a direct link to the story
+  
 ## Estimations
 
 Estimations is done using size labels on user stories and task, for example `size/L`, `size/S`
@@ -27,7 +29,7 @@ Sprints are managed using projects, with a single project representing a single 
 
 ## Backlog
 
-For managing the sprint backlog there is a [`Backlog` project](https://github.com/EliiseS/board-demo/projects/2). The project contains a column for each sprint
+For managing the backlog there is a [`Backlog` project](https://github.com/EliiseS/board-demo/projects/2). The project allows for an overview of all the available user stories and managing the prioritizations for each upcoming sprint
 
 ## Parking lot
 

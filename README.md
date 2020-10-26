@@ -12,6 +12,8 @@ This repository is to demonstrate an example of how to use Github project boards
 - **Tasks** are issues with:
   - the `task` label
   - a link to a milestone
+
+These issue types could be supported and enforced using Github issue templates, for example see the [bug report template](.github/ISSUE_TEMPLATE/Bug_Report.md)
   
 > **Additonal consideration**: Create a label per user story that would be added to the user story and each of it's tasks. This would allow for more tight coupling of user stories to their tasks and better filtering. However, this would increase the maintence overhead per story and the label itself wouldn't have a direct link to the story
   

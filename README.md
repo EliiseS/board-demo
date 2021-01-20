@@ -1,4 +1,4 @@
-# Github boards with Scrum
+# Github Projects with Scrum
 
 This repository is to demonstrate an example of how to use Github project boards with Scrum
 
@@ -36,5 +36,11 @@ For managing the backlog there is a [`Backlog` project](https://github.com/Eliis
 ## Parking lot
 
 In addition, for managing the daily stand up parking lot there's a [`Parking lot` project](https://github.com/EliiseS/board-demo/projects/3) avaliable to add issues up for discussion
+
+## Drawbacks
+
+- Unable to link issues to issues -> Hard to tell what tasks belong to which user stories
+- Unable to link PR to an issue without the issue being closed on PR completition -> Unable to link a PR that completes half of a user story/task
+- A lot of manual house keeping to make sure issues don't get lost
 
 
